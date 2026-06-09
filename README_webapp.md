@@ -153,4 +153,4 @@ pymysql
 
 ## 👤 Author
 
-Made by **Mohamed Toufiq** — feel free to connect on [LinkedIn](https://linkedin.com/in/your-profile)
+Made by **Mohamed Toufiq** — feel free to connect on [LinkedIn](https://linkedin.com/in/mohamed-toufiq-1a31a13a7)
