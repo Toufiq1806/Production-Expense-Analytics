@@ -11,7 +11,7 @@ CORS(app)
 DB_CONFIG = {
     "host": "127.0.0.1",
     "user": "root",
-    "password": "sql123",        
+    "password": "---",#change this to your password        
     "database": "BoomTown",
 }
 
