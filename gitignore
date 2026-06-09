@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# Data folders (don't upload raw/processed data to GitHub)
+RAW DATA/
+PROCESSED_DATA/
+Combined_Record/
+
+# Database credentials (never push these)
+*.env
+config.py
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
