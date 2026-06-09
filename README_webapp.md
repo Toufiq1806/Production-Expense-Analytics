@@ -102,7 +102,7 @@ CREATE DATABASE BoomTown;
 DB_CONFIG = {
     "host": "127.0.0.1",
     "user": "root",
-    "password": "YOUR_PASSWORD",   # <-- change this to your password
+    "password": "YOUR_PASSWORD",   #<-put your password
     "database": "BoomTown",
 }
 ```
